@@ -1,0 +1,7 @@
+OOP - everything is an object and every object has properties and method.
+
+Class is a template for creating an object.
+
+https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining
+
+analytical approach: predictive and descriptive
